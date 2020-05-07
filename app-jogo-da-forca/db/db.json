@@ -1,0 +1,129 @@
+{
+  "palavras": [
+  	{
+			"categoria": "Comidas",
+  		"lista" : [
+				"PIZZA",
+				"HAMBURGUER",
+				"CHURRASCO",
+				"GALINHADA",
+				"CARRETEIRO",
+				"LASANHA BOLOGNESA",
+				"MASSA CARBONARA",
+				"MASSA QUATRO QUEIJOS",
+				"XIS DE CARNE",
+				"CACHORRO QUENTE",
+				"ESCONDIDINHO",
+				"RISOTO",
+				"QUIBE",
+				"ESFIRA",
+				"SUSHI",
+				"SASHIMI",
+				"YAKISOBA",
+				"OMELETE",
+				"ALMONDEGA",
+				"BAIAO DE DOIS",
+				"CUSCUZ",
+				"ACARAJE",
+				"FEIJOADA",
+				"RABADA",
+				"VACA ATOLADA",
+				"CARURU",
+				"VIRADO A PAULISTA",
+				"BEIRUTE",
+				"FILE WELLINGTON",
+				"MOQUECA",
+				"PATO NO TUCUPI",
+				"TAINHA NA TAQUARA",
+				"ARROZ COM PEQUI"
+			]
+		},
+  	{
+  		"categoria": "Vem Ser DBC",
+  		"lista" : [
+	  		"CHA DE FITA", 
+	  		"KISS", 
+	  		"ESTUDE GIT", 
+	  		"GATO NO TECLADO", 
+			"COMPARETO",
+			"BLUEJ",
+			"VEM SER DBC",
+			"POKEDEX",
+			"ELFO",
+			"DWARF",
+			"TESTES",
+			"CAFE",
+			"JABULANI",
+			"COISA LOUCA",
+			"AI MEU DEUS",
+			"REI DO GADO",
+			"XABU",
+			"YODA",
+			"HTML",
+			"JAVASCRIPT",
+			"BOOTSTRAP",
+			"FLEXBOX",
+			"JASON BUTTON",
+			"OLHO DE SAURON",
+			"METODO AGIL",
+			"BIGAS"
+	  	] 
+  	},
+  	{
+  		"categoria" : "Animais",
+  		"lista" : [
+  			"CACHORRO", 
+  			"GATO",
+  			"CAVALO",
+  			"LONTRA",
+  			"LEAO",
+  			"LEAO MARINHO",
+			"FOCA",
+			"JACARE",
+			"BALEIA",
+			"GOFINHO",
+			"PEIXE",
+			"COBRA",
+			"LAGOSTA",
+			"LOBO",
+			"RINOCERONTE",
+			"URSO",
+			"MORCEGO",
+			"PAVAO",
+			"PORCO",
+			"RAPOSA",
+			"RATO",
+			"TUBARAO",
+			"ZEBRA",
+			"ABELHA",
+			"JAVALI",
+			"BUFALO",
+			"TIGRE",
+			"GAZELA",
+			"CROCODILO",
+			"CANGURU",
+			"BORBOLETA",
+			"VACA",
+			"COIOTE"
+  		]
+  	}
+  ],
+  "usuarios": [],
+  "ranking": [
+    {
+      "nome": "HENRIQUE",
+      "pontos": 140,
+      "id": 1
+    },
+    {
+      "nome": "HENRIQUE",
+      "pontos": "180",
+      "id": 2
+    },
+    {
+      "nome": "HENRIQUE",
+      "pontos": "40",
+      "id": 3
+    }
+  ]
+}
