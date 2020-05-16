@@ -1,3 +1,5 @@
+Projeto desenvolvido em 2018 durante o programa de desenvolvimento da DBC Company (https://www.dbccompany.com.br/)
+
 # O jogo da forca
 
 ### Apenas um maravilhoso jogo, impolgante e divertido para jogas com os amigos.
